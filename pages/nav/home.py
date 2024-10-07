@@ -2,8 +2,7 @@ import streamlit as st
 
 # Título e descrição da Home
 def show_home():
-    # Configurando o layout
-    st.set_page_config(page_title="🐯 Projeto Jogo do Tigrinho 🐯", page_icon="🐯", layout="wide")
+
 
     # Título com um estilo atraente
     st.markdown(
