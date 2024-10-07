@@ -1,0 +1,6 @@
+[theme]
+base="dark"
+primaryColor="#006400"  # Verde escuro
+backgroundColor="rgb(14, 17, 23)"  # Fundo escuro
+secondaryBackgroundColor="#001E1C"  # Turquesa claro
+textColor="#FFFFFF"  # Branco

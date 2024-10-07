@@ -1,0 +1,33 @@
+# Diretórios de ambiente virtual
+venv/
+.env
+
+# Arquivos de configuração do Python
+*.pyc
+__pycache__/
+
+# Diretórios de build e cache
+build/
+dist/
+*.egg-info/
+
+# Dependências de pacotes
+*.egg
+*.whl
+*.zip
+
+# Arquivos de log
+*.log
+
+
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints
+
+# Outros arquivos que não devem ser versionados
+*.sqlite3
+*.db
+.DS_Store
+*.csv
+*.xls
+*.xlsx
